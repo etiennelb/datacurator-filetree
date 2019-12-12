@@ -74,3 +74,4 @@ References:
 - [Superuser StackExchange - How to create folder name with special characters?](https://superuser.com/a/1112140)
 - [Superuser StackExchange - What are invalid characters for a file name under OS X?](https://superuser.com/questions/326103/what-are-invalid-characters-for-a-file-name-under-os-x)
 - [StackOverflow - What characters are forbidden in Windows and Linux directory names?](https://stackoverflow.com/a/31976060)
+- https://johnnydecimal.com/
